@@ -30,7 +30,7 @@ En la primera fila (fila 1), crea estos encabezados:
 - **D - Client**: Nombre del cliente (opcional)
   - Ejemplo: `Nike`
 
-- **E - Tags**: Tags separados por comas (usa: Gaming, Finance, Social Media, Podcast, Brand, Entertainment)
+- **E - Tags**: Tags separados por comas (usa: Gaming, Finance, Social Media, Podcast, Brand, Entertainment, Explainer, Ads)
   - Ejemplo: `Gaming, Entertainment`
 
 - **F - Aspect Ratio**: `16:9` o `9:16`
