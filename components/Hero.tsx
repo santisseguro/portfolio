@@ -182,7 +182,7 @@ export default function Hero({ featuredVideo }: HeroProps) {
                 src="/profile.png"
                 alt="Santiago Seguro Profile"
                 fill
-                className="object-cover rotate-90"
+                className="object-cover"
               />
             </div>
             {/* Green online indicator - positioned outside */}
